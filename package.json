@@ -1,0 +1,31 @@
+{
+  "name": "security-master",
+  "version": "1.0.0",
+  "description": "Module for creating security.",
+  "main": "module/security-master.js",
+  "types": "module/security-master.d.ts",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "module/*"
+  ],
+  "scripts": {},
+  "keywords": [
+    "hash",
+    "phrase",
+    "encrypt",
+    "decrypt",
+    "security",
+    "dictionary"
+  ],
+  "author": "Kio Gia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiogia/security-master.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kiogia/security-master/issues"
+  },
+  "homepage": "https://github.com/kiogia/security-master#readme"
+}
