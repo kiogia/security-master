@@ -1,6 +1,6 @@
 {
   "name": "security-master",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module for creating security.",
   "main": "module/security-master.cjs",
   "module": "module/security-master.js",
