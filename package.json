@@ -2,7 +2,8 @@
   "name": "security-master",
   "version": "1.0.0",
   "description": "Module for creating security.",
-  "main": "module/security-master.js",
+  "main": "module/security-master.cjs",
+  "module": "module/security-master.js",
   "types": "module/security-master.d.ts",
   "files": [
     "LICENSE",
