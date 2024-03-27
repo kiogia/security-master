@@ -6,5 +6,4 @@ function createPhrase(length = 12) {
 }
 
 export { dictionary, createPhrase };
-
 export default { dictionary, createPhrase };
